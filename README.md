@@ -50,3 +50,51 @@ ImersaoPython/
 │
 └── .streamlit/
 └── config.toml
+
+Code
+---
+## 🎨 Tema personalizado (config.toml)
+```toml
+[theme]
+primaryColor="#1b5e20"
+backgroundColor="#e8f5e9"
+secondaryBackgroundColor="#c8e6c9"
+textColor="#1b5e20"
+font="sans serif"
+```
+
+
+▶️ Como executar o projeto
+Clone o repositório:
+
+bash
+git clone https://github.com/bergson-mad/ALURA-Imersao-Dados-Python-Dashboard-Analise-Salarios.git
+
+Instale as dependências:
+bash
+pip install -r requirements.txt
+
+Execute o Streamlit:
+bash
+streamlit run app.py
+
+📚 Créditos
+Projeto desenvolvido como parte da Imersão de Dados da Alura.
+Dashboard criado por Bergson utilizando Python, Streamlit e Plotly.
+
+Code
+
+---
+# 🏷️ **Tags (topics)**
+python
+streamlit
+data-visualization
+plotly
+dashboard
+data-science
+alura
+imersao-dados
+salary-analysis
+analytics
+analise-salarial
+  
