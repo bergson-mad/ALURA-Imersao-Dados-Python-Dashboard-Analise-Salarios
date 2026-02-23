@@ -1,1 +1,5 @@
-
+[theme] 
+primaryColor = "#0a7f2e" # Buttons, sliders, highlights 
+backgroundColor = "#e8f5e9" # Light green background 
+secondaryBackgroundColor = "#c8e6c9" # Sidebar background 
+textColor = "#1b5e20" # Dark green text font = "sans serif"
